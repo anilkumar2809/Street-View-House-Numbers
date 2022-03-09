@@ -1,0 +1,1 @@
+To run the code please download the data from http://ufldl.stanford.edu/housenumbers/ and place it in the root directory. Data to be downloaded: 2 dataset train_32x32.mat, test_32x32.mat , extra_32x32.mat
